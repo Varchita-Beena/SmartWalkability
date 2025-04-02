@@ -1,2 +1,2 @@
-# SmartWalkability
-Code for paper: Scalable assessment and intervention planning of walkability through street view and satellite images: A case study in Gurugram
+# Scalable Assessment and Intervention Planning of Walkability through Street View and Satellite Images: A Case Study in Gurugram
+The code will be released soon
